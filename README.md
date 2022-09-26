@@ -37,3 +37,6 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 [Deploy Link](https://notetaker60309.herokuapp.com/)
+
+![image](https://user-images.githubusercontent.com/104994115/192175969-4ccbb939-39aa-4c25-850b-e1340718f13e.png)
+
